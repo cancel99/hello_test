@@ -15,7 +15,7 @@ public class App
     {
     	String str1 = "Hello";
     	String str2 = "World";
-    	#return str1+str2;
+    	return str1+str2;
     }
     
 }
